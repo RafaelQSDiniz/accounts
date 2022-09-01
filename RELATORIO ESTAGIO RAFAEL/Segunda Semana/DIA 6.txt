@@ -1,0 +1,76 @@
+dia 6  			 15/08/2022
+
+			"Ecommerce"
+-----------------------------------------------------------
+Ecommerce: vender pela internet produtos fisicos e digitais
+
+Marketplace = plataforma que une vendedores e clientes,
+exemplos: Amazon, Mercado Livre, Shopee, Uber, Ifood
+
+Loja virtual: sua propia loja, site ou aplicativo para vender diretamente para o cliente
+
+HUB: integrador de market place, ajuda a gerenciar vendas de multiplos canais em um unico canal
+
+ERP: Solução para gerenciar empresa, sistema de estoque, produtos, pdv, rh. 
+
+SaaS = Software as Service(Sistema em nuvem, com acesso online a qualquer momento) 
+
+FULFILLMENT = Serviço para armazenamento e Entrega de Produtos.
+
+Logística do Ecommerce = quanto mais pesado, mais caro para vender
+se o produto for muito pesado, o frete fica caro, então busque canais onde você colocar o propio frete
+	Busque qual o canal de venda atende melhor seu produto
+
+Indentificar como o cliente busca seu produto é essencial para saber como anunciar
+
+Palavras chave = palavra para melhorar a busca do seu produto
+
+Para melhorar sua palavra chave use Google Trends e Neil Patel
+---------------------------------------------------------------
+Árvore de Categorias 
+
+importancia da Árvore de categorias
+	imigração com Marketplaces
+	Navegação da Loja virtual
+	SEO da Loja Virtual
+
+Niveis		    		Exemplos
+
+Nivel 1: Departamentos	       (Acessórios)
+Nivel 2: Categorias             (Relógios)
+Nivel 3: Sub categorias     (Relógios digitais)
+Nivel 4: Produtos 	(Relogio rolex modelo tal)
+---------------------------------------------------------------
+Variações:
+
+um produto pai tem suas variações: tamanho, cor, etc.
+ 
+como cadastras variações no Bling:
+
+Simples:
+Cor:Azul
+
+Composta:
+Cor:Azul;Tamanho:M
+Cor:Azul;Tamanho:M;Gênero:Homem
+------------------------------------------------------------
+Kits 
+Vender produtos juntos pode aumentar sua margem e ajudar com produtos baratos
+ajuda a se diferenciar dos concorrentes
+-----------------------------------------------------------
+B2W = Americanas,Shoptime, Submarino
+
+Dica: Inove nas fotos e videos, mas mantenha descrição padrão
+
+Dica: Calcular taxas no valor final do produto, não antes
+------------------------------------------------------------------------
+Impostos:
+
+Curso "Precificação Ecommerce" modulo:Precificando Produtos
+Como calcular o ICMS: é dificil, deu pra resumir não, da um google ai
+--------------------------------------------------------------------------
+Bling:
+parei na aula de baixe o photoshop
+
+
+

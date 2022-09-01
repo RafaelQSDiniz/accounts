@@ -1,0 +1,122 @@
+relatório do segundo dia de estágio 	 09/08/2022
+
+	Curso "Cientista de Marketing digital" Modulo 9 - Primeiro pilar: Trafego
+Resumo:
+	Resumo de como funciona o Trafego
+		*Entender clientes
+		*Como funciona cada plataforma
+		*Como Ranquear bem seu produtos
+
+		
+------------------------------------------------
+atenção x intenção
+
+relação: atenção x intenção
+	 Desejo x necessidade
+
+exemplo: pouca atenção e intenção = panfleto, outdoor
+	 media atenção e media intenção = shopping
+	 maximo de atenção x maximo intenção = google search	
+
+dica: usar o aluguel do cliente como exemplo de custo para convencer o cliente investir em trafego	
+-----------------------------------------------------------------------
+Ordem dos canais para rodar uma campanha eficiente
+
+canal numero 1: google search
+canal numero 2: marketplace (mercado livre,magalu,ifood)
+canal numero 3: remarket
+canal numero 4: facebook ads
+
+1º passo: começar por quem ja está procurando você, campanha institucional
+2º passo: marketplace
+3º passo: remarket, trazer de volta o cliente que entrou e saiu do seu site
+4º passo: publico semelhante, bons compradores
+5º passo: características  especificas
+6º passo: mensagem direta e rapida para o cliente
+7º passo: disputar atenção com outros publicos
+
+A ordem da lista vai do mais "barato" ao mais caro, porque os 3 primeiros só são pagos se a venda der certo
+------------------------------------------------------------------------------------------------------
+GRID DE PUBLICOS
+
+	1.Tabelar argumentos para cada publico e ver qual argumento funciona para cada publico
+	2.investir no argumento com melhor resultado
+	3.criar multiplas landpage para cada publico
+
+CPM= custo por mil visualização
+CPC= custo por clique
+quanto menor o publico, mais caro o CPM
+	
+Orgânico VS Pago
+	 - velocidade +
+	  - controle +
+
+Aquisição e Monetização
+
+Aquisição = consquistar a pessoa
+Monetização = convencer a pessoa a gastar
+------------------------------------------------------------------
+Buscas
+messenger match
+tipos de buscas:
+ 	busca aberta(pesquisa aberta com a palavra)
+	busca exata(pesquisa exata)
+	busca fechada(busca sobre o contexto da palavra)
+
+dica: usar o nome do concorrente como palavra chave, atrair o seus clientes e convencer a ir para sua pagina 
+
+CONTEUDO DEFINE AUDIENCIA
+
+formas para otimização                 periodo para atualizar
+	1º criativos      			7dias				
+	2º publicos				7-30dias
+	3º objetivo/ estrategia			15-30 dias
+	4º landpages				
+	5º fontes de trafego
+------------------------------------------------
+comor escalar campanha:
+
+     quanto maior o volume da campanha, maior o investimento por resultado
+	como melhorar escala da campanha:
+		1. +verba
+		2. +criativos
+		3. +publico
+		4. +fontes de trafego 
+-------------------------------------------------
+Novas fontes de Trafego:
+
+cada plataforma tem sua forma de converter anuncios, adaptar o anuncio para cada plataforma
+	
+5 pontos para definir uma nova fonte de trafego:
+	Criativo
+	Mensuaração
+	Objetivo
+	Segmentação
+
+Dica: Não seja focado em uma tecnologia só, tenha um grande leque de ferramentas ao seu favor
+--------------------------------------------------
+TAGS (SÃO LINHAS DE CODIGO NA SUA PAGINA)
+	fontes de trafego ------------>facebook, tiktok, google
+	analytics --------> analizar estatisticas
+	gestores de tag (GTM) google tab managers
+	outras tag
+	Proposta de Valor
+	apps de verificação
+		tag assistent
+		facebook pixel help
+
+facebook pixel: https://www.facebook.com/business/help/742478679120153?id=1205376682832142
+google adsense: https://support.google.com/google-ads/answer/2476688?hl=pt-PT
+--------------------------------------------------
+fast traffic / Deep Trafic
+
+mensagem	lead page
+search		aquisição com monetização
+nativas		
+
+FAST TRAFFIC = trafico rapido para testar o produto e resultados rapidos
+DEEP TRAFFIC = trafico profundo para campanhas mais calculas e resultado ao longo prazo
+--------------------------------------------------
+CONTEXTO:
+contexto é a chave para engajar e achar clientes
+usar ganchos sobre o contexto do dia a dia, series, filmes que estão no hype

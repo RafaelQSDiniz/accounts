@@ -1,0 +1,21 @@
+<script> 
+    //troca icone do menu hamburguer
+    const atalhomenu = document.querySelector(".atalho-menu");
+    atalhomenu.classList.remove('icon-th');
+    atalhomenu.classList.add('fa-bars', 'icon-large');
+    
+    // personaliza botão home
+    const botaohome = document.querySelector(".icon-home");
+    botaohome.innerHTML = 'MNunes'     // escreve texto
+    botaohome.classList.remove("icon-home");
+    botaohome.classList.add('botaohome');
+    
+    //botao usuario
+    var iconeUsuario = document.querySelector(".icon-user");
+    var container = document.querySelector(".nivel-um");
+    iconeUsuario.classList.add('icon-large');
+    iconeUsuario.innerHTML = 'Acessar conta'     // escreve texto
+    container.appendChild(iconeUsuario);
+    
+    
+</script>
