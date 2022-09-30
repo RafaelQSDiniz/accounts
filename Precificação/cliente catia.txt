@@ -1,6 +1,0 @@
-Catia:
-
-•	Preço de custo =?
-•	Imposto = 4%
-•	Despesa operacional = 1,00
-•	Lucro sobre venda = 20%
