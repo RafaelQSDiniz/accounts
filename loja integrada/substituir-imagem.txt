@@ -1,5 +1,0 @@
-<script>
-    var imagem = document.querySelector('img[alt="Mini banner 1"]');
-    imagem.setAttribute('src', 'https://cdn.awsli.com.br/2485/2485080/arquivos/giphy.gif');
-    console.log('deu certo')
-</script>

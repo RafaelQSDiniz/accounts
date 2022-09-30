@@ -1,1 +1,0 @@
-<a href="https://api.whatsapp.com/send?phone=5543999999999"><img src="https://cdn.awsli.com.br/2485/2485080/arquivos/whatsapp-botao.png" style="height:65px; position:fixed; bottom: 70px; right: 17px; z-index:99999;" data-selector="img"></a>
