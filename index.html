@@ -1,0 +1,131 @@
+<html>
+  <head>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+      
+      .card {
+        width: 200px;
+        height: 300px;
+        position: relative;
+        margin: 0 auto;
+        text-align: center;
+        border-radius: 20px;
+      }
+      .front, .back {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+        transition: transform 1s;
+        border-radius: 20px;
+        color: #FFCE44;
+        font-family: 'Yellowtail', cursive;
+        font-size: 20px;
+      }
+      .front {
+        background-color: #7E3A9C;
+        color: #FFCE44;
+        transform: rotateY(0deg);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .back {
+        background-color: #FFCE44;
+        color: #7E3A9C;
+        transform: rotateY(180deg);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .flipped .front {
+        transform: rotateY(180deg);
+      }
+      .flipped .back {
+        transform: rotateY(0deg);
+      }
+      button {
+        margin: 10px auto;
+        display: block;
+        background-color: #7E3A9C;
+        border: none;
+        color: #FFCE44;
+        font-family: 'Yellowtail', cursive;
+        font-size: 20px;
+        padding: 10px 20px;
+        border-radius: 10px;
+      }
+
+
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="card">
+      <div class="front">
+        Carta da Sorte
+      </div>
+      <div class="back">
+        <p id="quote">Back of Card</p>
+      </div>
+    </div>
+    <button id="flip">Sorteie uma carta</button>
+
+    <script>
+      //as frases ficam aqui, escrever dentro de "" e separar por virgula
+      var quotes = [
+        "A vida é curta, seja corajoso e viva-a plenamente.",
+        "Não existe um caminho certo para o sucesso. O sucesso é o resultado de manterem-se fiel a si mesmo e a sua jornada.",
+        "Não tenha medo de correr riscos. As grandes oportunidades geralmente surgem no momento em que você menos espera.",      
+        "Não é o destino que define quem somos, mas as escolhas que fazemos.",
+        "Não é o que você é que te limita, mas o que você acredita.",
+        "Não é o que você tem que te torna rico, é o que você dá.",
+        "Não é o tamanho da tempestade, mas a força da nossa resposta que define quem somos.",
+        "Não importa o quão longe você vá, você sempre carrega a si mesmo consigo.",
+        "Não importa o quão rápido você corra, você nunca pode escapar de si mesmo.",
+        "Não importa o quão longe você vá, você sempre estará onde começou.",
+        "Não importa o quão alto você chegue, sempre haverá alguém mais alto.",
+        "Não importa o quão forte você seja, sempre haverá alguém mais forte.",
+        "Não é a quantidade de tempo que você tem, mas a qualidade do tempo que você gasta que é importante.",
+        "Não é o que você tem, mas o que você faz com o que tem que define quem você é.",
+        "Não é o que você diz, mas o que você faz que fala mais alto.",
+        "Não é o que você tem, mas o que você dá que define o seu valor.",
+        "Não é o que você tem, mas o que você faz com o que tem que define o seu caráter.",
+        "Não importa o quanto você saiba, sempre haverá alguém mais sábio.",
+        "Não importa o quão difícil as coisas possam parecer, não desista. Seu futuro é sempre brilhante se você nunca desistir.", 
+        "Não importa quantas vezes você caia, você deve sempre se levantar e continuar a andar.", 
+        "A amizade é mais forte do que a raiva. A amizade é o que vai curar as feridas.", 
+        "Se você não acredita em si mesmo, não importa o quanto você treine, nunca vai ser forte o suficiente.", 
+        "Se você não tem um sonho, você não tem nada para lutar.", 
+        "Você não pode mudar o passado, mas pode aprender com ele e mudar o futuro.", 
+        "A verdadeira força não vem da capacidade de destruir, mas da capacidade de perdoar.", 
+        "A verdadeira sabedoria vem do conhecimento e compreensão.",
+        "Não importa o quanto você treine, você nunca será forte o suficiente se não tiver coragem.", 
+        "A verdadeira força não vem da habilidade, mas da resolução.", 
+        "Não importa o quanto você tente esconder, você sempre será você mesmo.", 
+        "Não há nada mais importante do que proteger aqueles que você ama.", 
+        "Aprender é a chave para se tornar forte.", 
+        "Não importa o quão fraco você se sinta, você sempre pode encontrar a força dentro de si.", 
+        "Não há nada mais importante do que seguir em frente e continuar a lutar.", 
+        "A verdadeira amizade é aquela em que você pode confiar sempre.", 
+        "A verdadeira beleza vem da determinação e coragem.", 
+        "A vida é uma viagem sem destino, só vamos chegar lá quando não houver mais nada a fazer.",
+      ];
+      
+      // código que faz a mágica acontecer
+
+      document.getElementById("flip").addEventListener("click", function() {
+        var randomIndex = Math.floor(Math.random() * quotes.length);
+        var quote = quotes[randomIndex];
+        document.getElementById("quote").innerHTML = quote;
+        document.querySelector(".card").classList.toggle("flipped");
+      });
+    </script>
+  </body>
+</html>
